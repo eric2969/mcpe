@@ -1,0 +1,31 @@
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+NO LOG FILE! - setting up server logging...
+[2020-11-11 11:06:56 INFO] Starting Server
+[2020-11-11 11:06:56 INFO] Version 1.16.40.2
+[2020-11-11 11:06:56 INFO] Session ID 8b8f16f8-3580-4fda-afae-77811ae9b8ef
+[2020-11-11 11:06:56 INFO] Level Name: level
+[2020-11-11 11:06:56 INFO] Game mode: 0 Survival
+[2020-11-11 11:06:56 INFO] Difficulty: 3 HARD
+[2020-11-11 11:06:57 INFO] opening worlds/level/db
+[2020-11-11 11:07:03 INFO] IPv4 supported, port: 19132
+[2020-11-11 11:07:03 INFO] IPv6 supported, port: 19133
+[2020-11-11 11:07:03 INFO] IPv4 supported, port: 42821
+[2020-11-11 11:07:03 INFO] IPv6 supported, port: 59138
+[2020-11-11 11:07:06 INFO] Server started.
+[2020-11-11 11:07:29 INFO] Player connected: eric29696261, xuid: 2535446130721457
+[2020-11-11 11:08:06 INFO] Player disconnected: eric29696261, xuid: 2535446130721457
+[2020-11-11 11:28:34 INFO] Player connected: eric29696261, xuid: 2535446130721457
+[2020-11-11 11:29:04 INFO] Player disconnected: eric29696261, xuid: 2535446130721457
+[2020-11-11 11:33:51 INFO] Player connected: eric29696261, xuid: 2535446130721457
+[2020-11-11 11:35:45 INFO] Player connected: SongSoSa0406, xuid: 2535468076989485
+op SongSoSa0406
+Opped: SongSoSa0406
+reload
+Existing function files have been reloaded. Restart Minecraft to reload NEW functions.
+save-all
+Unknown command: save-all. Please check that the command exists and that you have permission to use it.
+[2020-11-11 11:39:39 INFO] Player disconnected: SongSoSa0406, xuid: 2535468076989485
+stop
+[2020-11-11 11:39:40 INFO] Server stop requested.
+[2020-11-11 11:39:41 INFO] Stopping server...
+Quit correctly

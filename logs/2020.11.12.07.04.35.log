@@ -1,0 +1,29 @@
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+NO LOG FILE! - setting up server logging...
+[2020-11-12 07:04:35 INFO] Starting Server
+[2020-11-12 07:04:35 INFO] Version 1.16.40.2
+[2020-11-12 07:04:35 INFO] Session ID 73616655-56b2-4cad-82a2-df6daabc4535
+[2020-11-12 07:04:35 INFO] Level Name: level
+[2020-11-12 07:04:35 INFO] Game mode: 0 Survival
+[2020-11-12 07:04:35 INFO] Difficulty: 3 HARD
+[2020-11-12 07:04:35 INFO] opening worlds/level/db
+[2020-11-12 07:04:41 INFO] IPv4 supported, port: 19132
+[2020-11-12 07:04:41 INFO] IPv6 supported, port: 19133
+[2020-11-12 07:04:41 INFO] IPv4 supported, port: 46281
+[2020-11-12 07:04:41 INFO] IPv6 supported, port: 35485
+[2020-11-12 07:04:44 INFO] Server started.
+[2020-11-12 07:04:44 INFO] Player connected: Qpumpkin0429, xuid: 2535421828952941
+[2020-11-12 07:05:00 INFO] Player connected: eric29696261, xuid: 2535446130721457
+[2020-11-12 07:05:03 INFO] Player disconnected: Qpumpkin0429, xuid: 2535421828952941
+[2020-11-12 07:05:06 INFO] Player connected: Qpumpkin0429, xuid: 2535421828952941
+[2020-11-12 07:05:20 INFO] Player disconnected: Qpumpkin0429, xuid: 2535421828952941
+[2020-11-12 07:05:45 INFO] Player connected: Qpumpkin0429, xuid: 2535421828952941
+[2020-11-12 07:05:56 INFO] Player disconnected: Qpumpkin0429, xuid: 2535421828952941
+[2020-11-12 07:06:05 INFO] Player connected: Qpumpkin0429, xuid: 2535421828952941
+[2020-11-12 07:06:05 INFO] Player connected: SongSoSa0406, xuid: 2535468076989485
+[2020-11-12 07:06:30 INFO] Player disconnected: eric29696261, xuid: 2535446130721457
+[2020-11-12 07:06:43 INFO] Player disconnected: Qpumpkin0429, xuid: 2535421828952941
+stop
+[2020-11-12 07:06:51 INFO] Server stop requested.
+[2020-11-12 07:06:52 INFO] Stopping server...
+Quit correctly

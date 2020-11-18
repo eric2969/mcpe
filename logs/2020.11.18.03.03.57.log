@@ -1,0 +1,14 @@
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+NO LOG FILE! - setting up server logging...
+[2020-11-18 03:03:57 INFO] Starting Server
+[2020-11-18 03:03:57 INFO] Version 1.16.40.2
+[2020-11-18 03:03:57 INFO] Session ID 31caa39b-4d46-45a9-ac56-8b5077586470
+[2020-11-18 03:03:57 INFO] Level Name: level
+[2020-11-18 03:03:57 INFO] Game mode: 0 Survival
+[2020-11-18 03:03:57 INFO] Difficulty: 3 HARD
+[2020-11-18 03:03:57 INFO] opening worlds/level/db
+[2020-11-18 03:04:04 INFO] IPv4 supported, port: 19132
+[2020-11-18 03:04:04 INFO] IPv6 supported, port: 19133
+[2020-11-18 03:04:04 INFO] IPv4 supported, port: 60181
+[2020-11-18 03:04:04 INFO] IPv6 supported, port: 51371
+[2020-11-18 03:04:07 INFO] Server started.

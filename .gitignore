@@ -1,0 +1,9 @@
+bedrock_server*
+Dedicated_server.txt
+release-notes.txt
+downloads/
+minecraftpe/
+structures/
+treatments/
+world_templates/
+*.sh

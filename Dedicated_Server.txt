@@ -1,0 +1,15 @@
+Dedicated_Server.txt
+[2020-11-18 16:43:33 INFO] Starting Server
+[2020-11-18 16:43:33 INFO] Version 1.16.100.4
+[2020-11-18 16:43:33 INFO] Session ID 99ca7004-722e-44fb-bd0e-8b0a7233a96f
+[2020-11-18 16:43:33 INFO] Level Name: level
+[2020-11-18 16:43:33 INFO] Game mode: 0 Survival
+[2020-11-18 16:43:33 INFO] Difficulty: 3 HARD
+[INFO] opening worlds/level/db
+[INFO] IPv4 supported, port: 19132
+[INFO] IPv6 supported, port: 19133
+[INFO] IPv4 supported, port: 51111
+[INFO] IPv6 supported, port: 50073
+[INFO] Server started.
+[INFO] Server stop requested.
+[INFO] Stopping server...

@@ -1,0 +1,32 @@
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+NO LOG FILE! - setting up server logging...
+[2020-11-11 11:04:02 INFO] Starting Server
+[2020-11-11 11:04:02 INFO] Version 1.16.40.2
+[2020-11-11 11:04:02 INFO] Session ID 63d5802f-1764-434e-b869-5a12dabf9b05
+[2020-11-11 11:04:02 INFO] Level Name: level
+[2020-11-11 11:04:02 INFO] Game mode: 0 Survival
+[2020-11-11 11:04:02 INFO] Difficulty: 3 HARD
+[2020-11-11 11:04:02 INFO] opening worlds/level/db
+[2020-11-11 11:04:08 INFO] IPv4 supported, port: 19132
+[2020-11-11 11:04:08 INFO] IPv6 supported, port: 19133
+[2020-11-11 11:04:08 INFO] IPv4 supported, port: 55995
+[2020-11-11 11:04:08 INFO] IPv6 supported, port: 52142
+[2020-11-11 11:04:11 INFO] Server started.
+[2020-11-11 11:04:12 INFO] Player connected: eric29696261, xuid: 2535446130721457
+version
+
+Unknown command: version. Please check that the command exists and that you have permission to use it.
+Unknown command: . Please check that the command exists and that you have permission to use it.
+
+Unknown command: . Please check that the command exists and that you have permission to use it.
+op
+Syntax error: Unexpected "": at "/op>><<"
+op eric29696261
+Opped: eric29696261
+op                op eric29696261
+Could not op (already op or higher): eric29696261
+[2020-11-11 11:05:53 INFO] Player disconnected: eric29696261, xuid: 2535446130721457
+so top
+[2020-11-11 11:06:51 INFO] Server stop requested.
+[2020-11-11 11:06:51 INFO] Stopping server...
+Quit correctly

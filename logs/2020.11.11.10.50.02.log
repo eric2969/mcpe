@@ -1,0 +1,12 @@
+NO LOG FILE! - setting up server logging...
+[2020-11-11 10:50:02 INFO] Starting Server
+[2020-11-11 10:50:02 INFO] Version 1.16.40.2
+[2020-11-11 10:50:02 INFO] Session ID 42fb5dfd-6f91-4c61-9c77-ce4f9ca2fbd5
+[2020-11-11 10:50:02 INFO] Level Name: Bedrock level
+[2020-11-11 10:50:02 INFO] Game mode: 0 Survival
+[2020-11-11 10:50:02 INFO] Difficulty: 1 EASY
+[2020-11-11 10:50:03 INFO] opening worlds/Bedrock level/db
+[2020-11-11 10:50:09 INFO] IPv4 supported, port: 0
+[2020-11-11 10:50:09 INFO] IPv6 supported, port: 0
+[2020-11-11 10:50:09 ERROR] Network port occupied, can't start server.
+^C
