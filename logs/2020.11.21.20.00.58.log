@@ -1,0 +1,18 @@
+NO LOG FILE! - setting up server logging...
+[2020-11-21 20:00:58 INFO] Starting Server
+[2020-11-21 20:00:58 INFO] Version 1.16.100.4
+[2020-11-21 20:00:58 INFO] Session ID 3b1d30f7-68cc-45fa-86e3-20a881a54b91
+[2020-11-21 20:00:58 INFO] Level Name: level
+[2020-11-21 20:00:58 INFO] Game mode: 0 Survival
+[2020-11-21 20:00:58 INFO] Difficulty: 3 HARD
+[INFO] opening worlds/level/db
+[INFO] IPv4 supported, port: 19132
+[INFO] IPv6 supported, port: 19133
+[INFO] IPv4 supported, port: 42619
+[INFO] IPv6 supported, port: 50250
+[INFO] Server started.
+say Stopping server (stop.sh called)...
+stop
+[INFO] Server stop requested.
+[INFO] Stopping server...
+Quit correctly
