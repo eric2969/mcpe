@@ -1,0 +1,26 @@
+NO LOG FILE! - setting up server logging...
+[2020-12-02 20:30:38 INFO] Starting Server
+[2020-12-02 20:30:38 INFO] Version 1.16.101.1
+[2020-12-02 20:30:38 INFO] Session ID 7272b862-9f40-42eb-bb1b-da739481e435
+[2020-12-02 20:30:38 INFO] Level Name: level
+[2020-12-02 20:30:38 INFO] Game mode: 0 Survival
+[2020-12-02 20:30:38 INFO] Difficulty: 3 HARD
+[INFO] opening worlds/level/db
+[INFO] IPv4 supported, port: 19132
+[INFO] IPv6 supported, port: 19133
+[INFO] IPv4 supported, port: 52729
+[INFO] IPv6 supported, port: 41448
+[INFO] Server started.
+say Server is restarting in 30 seconds! 
+say Server is restarting in 7 seconds! 
+say Server is restarting in 6 seconds! 
+say Server is restarting in 5 seconds! 
+say Server is restarting in 4 seconds! 
+say Server is restarting in 3 seconds! 
+say Server is restarting in 2 seconds! 
+say Server is restarting in 1 second! 
+say Closing server...
+stop
+[INFO] Server stop requested.
+[INFO] Stopping server...
+Quit correctly
